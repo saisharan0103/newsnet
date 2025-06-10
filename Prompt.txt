@@ -1,0 +1,56 @@
+You are an expert AI software architect, engineer, and project manager.Your job is to break down and plan the complete end-to-end development of the following MVP, in PHASES and TASKS, with clear priorities and time estimates.
+
+PROJECT OVERVIEW:A decentralized news platform MVP for a hackathon.Core features:
+
+Story Submission System (users submit local news)
+
+Community Blockchain Voting (on story quality)
+
+AI Content Moderation (auto screen inappropriate stories)
+
+Token Rewards (contributors earn tokens per story vote)
+
+Simple Frontend (clean UI for reading/interacting)
+
+TECH STACK:
+
+Frontend: React/Next.js, Tailwind CSS, Web3.js or Ethers.js
+
+Backend: Node.js/Express, MongoDB, OpenAI API
+
+Blockchain: Ethereum Sepolia or Polygon Mumbai, Solidity, Hardhat
+
+AI: OpenAI API, sentiment analysis
+
+SMART CONTRACTS:
+
+NewsDAO.sol: story submission, voting, token distribution, basic governance
+
+NewsToken.sol: ERC20 token, rewards, voting power
+
+
+
+INSTRUCTIONS:
+
+Create a detailed, PHASED plan:
+
+List each phase (e.g. Smart Contract Dev, Backend, Frontend, Integration, Testing)
+
+For each phase, break down TASKS in order
+
+Assign ESTIMATED TIME (hours) for each task
+
+Specify dependencies — what needs to be done first
+
+Suggest the best approach for each part (what to code, how to structure, tools/libraries to use)
+
+Highlight CRITICAL PATH tasks — what CANNOT slip
+
+List possible pitfalls + mitigation
+
+Output as a clear, step-by-step execution plan (markdown bullets or table)
+
+NO FLUFF. I want execution details, not just general advice. Make sure this plan is specific to THIS MVP, tech stack.
+
+
+

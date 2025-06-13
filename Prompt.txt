@@ -16,11 +16,11 @@ TECH STACK:
 
 Frontend: React/Next.js, Tailwind CSS, Web3.js or Ethers.js
 
-Backend: Node.js/Express, MongoDB, OpenAI API
+Backend: Node.js/Express, MongoDB, Gemini API
 
 Blockchain: Ethereum Sepolia or Polygon Mumbai, Solidity, Hardhat
 
-AI: OpenAI API, sentiment analysis
+AI: Gemini API, sentiment analysis
 
 SMART CONTRACTS:
 
